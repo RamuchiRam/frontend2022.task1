@@ -1,9 +1,9 @@
-.section {}
-.section__title {}
-.section__date {}
-.section__text {}
-.section__footer {}
-.section__link {}
+.blog {}
+.blog__title {}
+.blog__date {}
+.blog__text {}
+.blog__footer {}
+.blog__link {}
 .promo {}
 .promo__title {}
 .promo__description {}
